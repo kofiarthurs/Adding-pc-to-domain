@@ -1,2 +1,2 @@
-# Adding-pc-to-domain
-Adding a pc to the active directory domain
+I created an organizational unit called IT and added Bob Tame as a user.
+https://imgur.com/y6xsm1Z
